@@ -11,3 +11,8 @@ casperjs --ignore-ssl-errors=true --ssl-protocol=any --cookies-file=/tmp/packtpu
 ```
 
 or even add it to your crontab, or other shedual task manager
+
+---
+
+##Note
+To use this you need to edit in your username/password into the javascript file (lines #1 and #2)
